@@ -21,6 +21,13 @@
     "repo": "vinzent03/obsidian-git"
   },
   {
+    "id": "obsidian-library",
+    "name": "资料库 Library",
+    "author": "MEC",
+    "description": "电子书与论文资料库：多格式导入、分类筛选、阅读进度、引用生成与论文写作辅助。",
+    "repo": "zhengxinxu740-lgtm/obsidian-library"
+  },
+  {
     "id": "url-into-selection",
     "name": "Paste URL into selection",
     "author": "denolehov",
